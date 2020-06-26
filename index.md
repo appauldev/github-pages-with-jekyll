@@ -1,3 +1,9 @@
-# Welcome to my blog
+# GitHub Pages with Jekyll
+### Learning Lab by GitHub
 
-I'm glad you are here. I plan to talk about ...
+## Header 1
+Some contents here
+## Checklist
+- [ ] Item 1
+- [ ] Item 2
+- [x] Item 3
